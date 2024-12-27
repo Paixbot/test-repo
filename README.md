@@ -2,6 +2,9 @@
 
 This is a test repository created to explore GitHub functionalities.
 
+## Claude Tutorial
+A guide to using Claude and exploring its capabilities.
+
 ## Description
 This repository serves as a testing ground for various GitHub features and operations.
 
